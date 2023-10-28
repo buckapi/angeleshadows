@@ -6962,8 +6962,10 @@ textarea.form-control {
     .ps-new-arrivals .ps-section__mobile {
       display: none; } }
   @media (max-width: 1199px) {
-    .ps-new-arrivals .ps-section__content 
-/*    { display: none; } */
+    .ps-new-arrivals .ps-section__content {
+
+/*    { display: none; } */    }
+
     
     }
   @media (max-width: 767px) {
