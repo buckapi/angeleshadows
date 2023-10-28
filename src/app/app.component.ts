@@ -13,10 +13,23 @@ export class AppComponent {
   )
   {
     this.script.load(
-      'jquery',
-      'selectize',
-      'plugins',
-      'main'
+       'jquery',
+       'selectize',
+       'plugins',
+       'main'
+      // 'jquery',
+      // 'bootstrap',
+      // 'chosen',
+      // 'countdown',
+      // 'scrollbar',
+      // 'lightbox',
+      // 'magnific',
+      // 'slick',
+      // 'zoom',
+      // 'threesixty',
+      // 'jquery-ui',
+      // 'mobilemenu',
+      // 'functions'
                 )
           .then(data => {
             // this.yeoman.isLoaded=true;
