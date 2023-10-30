@@ -6,7 +6,7 @@ Version:  1.0.0
 
 [Color codes]
     Background: #ffffff
-    Body Color : #868686
+    Body Color : #000000
     Accent color: #b6406b
 
 [Typography]
@@ -160,7 +160,7 @@ figure {
 }
 .page-links > a,
 .page-links > span:not(.page-links-title) {
-	color: #868686;
+	color: #000000;
 	display: inline-block;
 	min-width: 43px;
 	padding: 0 3px;
@@ -1028,7 +1028,7 @@ article.sticky .post-title a::before {
 .widget_shopping_cart .product_list_widget li .quantity {
 	font-size: 14px;
 	line-height: 22px;
-	color: #868686;
+	color: #000000;
 	font-weight: 500;
 }
 .widget_shopping_cart .product_list_widget li .remove_from_cart_button {
@@ -1553,7 +1553,7 @@ select {
 	max-width: 100%;
 	background-color: transparent;
 	font-size: 14px;
-	color: #868686;
+	color: #000000;
 	height: 40px;
 	line-height: 40px;
 	border-radius: 0;
@@ -2217,7 +2217,7 @@ th, td {
 	position: relative;
 }
 .box-header-nav .main-menu .menu-item .submenu .menu-item a {
-	color: #868686;
+	color: #000000;
 }
 .box-header-nav .main-menu .menu-item .submenu .menu-item:hover > a {
 	color: #b6406b;
@@ -2315,7 +2315,7 @@ th, td {
 	padding-left: 35px;
 }
 .box-header-nav .main-menu > .menu-item.menu-item-right > a {
-	color: #868686;
+	color: #000000;
 }
 .box-header-nav .main-menu > .menu-item.menu-item-right:hover > a {
 	color: #b6406b;
@@ -2548,7 +2548,7 @@ th, td {
 }
 .lynessa-live-search-form .product-price del {
 	font-size: 14px;
-	color: #868686;
+	color: #000000;
 }
 .lynessa-live-search-form .product-price ins {
 	color: #b6406b;
@@ -2691,7 +2691,7 @@ th, td {
 .category .chosen-container-single .chosen-single span {
 	margin: 0;
 	font-size: 14px;
-	color: #868686;
+	color: #000000;
 }
 .category .chosen-container-single .chosen-single div {
 	width: 31px;
@@ -3784,7 +3784,7 @@ a.backtotop {
 	line-height: 60px;
 	font-size: 20px;
 	position: fixed;
-	bottom: 65px;
+	bottom: 15px;
 	right: 25px;
 	text-align: center;
 	-webkit-transition: all 0.4s ease 0s;
@@ -4677,7 +4677,7 @@ body.single-product .lynessa-breadcrumb {
 .lynessa-breadcrumb i {
 	padding-left: 11px;
 	padding-right: 11px;
-	color: #868686;
+	color: #000000;
 }
 @media (max-width: 1199px) {
 	.lynessa-breadcrumb {
@@ -5225,7 +5225,7 @@ body #widget-area .select2-container--default .select2-selection--single {
 	background-color: #dbdbdb !important;
 }
 .lynessa_widget_layered_nav .color-group .term-color .count {
-	color: #868686;
+	color: #000000;
 }
 .lynessa_widget_layered_nav .inline-group a {
 	display: inline-block;
@@ -5461,7 +5461,7 @@ ul.products li.product-category a .lynessa-loop-category__title mark {
 	width: 46px;
 	height: 46px;
 	line-height: 44px;
-	color: #868686;
+	color: #000000;
 	border: 1px solid #e4e4e4;
 	margin-right: 7px;
 	padding: 13px 12px;
@@ -5806,20 +5806,20 @@ html.yith-quick-view-is-open body {
 	width: 17px;
 }
 #yith-quick-view-close::before {
-	/* -webkit-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg); */
+	transform: rotate(-45deg);
 
 	border-radius: 10px;
 }
 #yith-quick-view-close::after {
-	/* -webkit-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg); */
+	transform: rotate(45deg);
 
 	border-radius: 10px;
 }
@@ -5942,7 +5942,7 @@ body.admin-bar #yith-quick-view-modal {
 	text-transform: uppercase;
 }
 .cat-list a:not(:hover) {
-	color: #868686;
+	color: #000000;
 }
 .product-name {
 	font-size: 12px;
@@ -8252,11 +8252,11 @@ p.stars a:hover ~ a:before, p.stars.selected:not(:hover) a.active ~ a:before {
 	height: 4px;
 	margin-left: -2px;
 	background-color: #b6406b;
-	/* -webkit-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg); */
+	transform: rotate(-45deg);
 
 	border-radius: 10px;
 }
@@ -9101,7 +9101,7 @@ body .select2-container--default .select2-results__option[data-selected="true"] 
 }
 .lynessa-checkout-login .lynessa-info a:not(:hover),
 .lynessa-checkout-coupon .lynessa-info a:not(:hover) {
-	color: #868686;
+	color: #000000;
 }
 .checkout_coupon {
 	overflow: hidden;
@@ -10266,11 +10266,11 @@ body.error404 .header {
 	width: 17px;
 }
 #popup-newsletter button.close::before {
-	/* -webkit-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg); */
+	transform: rotate(-45deg);
 
 	border-radius: 10px;
 }
@@ -11421,11 +11421,11 @@ body.error404 .header {
 	height: 4px;
 	margin-left: -2px;
 	background-color: #b6406b;
-	/* -webkit-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg); */
+	transform: rotate(-45deg);
 
 	border-radius: 10px;
 }

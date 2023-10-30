@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ScriptService } from '@app/services/script.service';
+import { Router } from '@angular/router';{}
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -8,7 +9,8 @@ import { ScriptService } from '@app/services/script.service';
 export class HomeComponent implements OnInit {
 
   constructor(
-    public script: ScriptService
+    public script: ScriptService,
+    public router:Router
   ) {
     this.script.load(
        // 'jquery',
