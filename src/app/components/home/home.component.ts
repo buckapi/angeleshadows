@@ -11,24 +11,24 @@ export class HomeComponent implements OnInit {
     public script: ScriptService
   ) {
     this.script.load(
-       'jquery',
-       'selectize',
-       'plugins',
-       'main'
+       // 'jquery',
+       // 'selectize',
+       // 'plugins',
+       // 'main'
 
-      // 'jquery',
-      // 'bootstrap',
-      // 'chosen',
-      // 'countdown',
-      // 'scrollbar',
-      // 'lightbox',
-      // 'magnific',
-      // 'slick',
-      // 'zoom',
-      // 'threesixty',
-      // 'jquery-ui',
-      // 'mobilemenu',
-      // 'functions'
+       'jquery',
+       'bootstrap',
+       'chosen',
+       'countdown',
+       'scrollbar',
+       'lightbox',
+       'magnific',
+       'slick',
+       'zoom',
+       'threesixty',
+       'jquery-ui',
+       'mobilemenu',
+       'functions'
                 )
           .then(data => {
             // this.yeoman.isLoaded=true;

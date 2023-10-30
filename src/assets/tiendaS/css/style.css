@@ -3455,10 +3455,11 @@ th, td {
 3.9 HEADER STYLE
 ========================================================================== */
 .header.header-transparent {
-	position: absolute;
+	position: fixed;
 	left: 0;
 	right: 0;
 	z-index: 9999;
+	background-color: #ff00ff70;
 }
 /*.header.style-01*/
 .header.style-01 .header-middle {
