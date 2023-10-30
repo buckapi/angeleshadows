@@ -7,7 +7,7 @@ Version:  1.0.0
 [Color codes]
     Background: #ffffff
     Body Color : #868686
-    Accent color: #cf9163
+    Accent color: #b6406b
 
 [Typography]
     Body:   14/26px 'Manrope', sans-serif;
@@ -179,8 +179,8 @@ figure {
 .page-links > span:not(.page-links-title),
 .page-links > a:hover {
 	color: #fff;
-	border-color: #cf9163;
-	background-color: #cf9163;
+	border-color: #b6406b;
+	background-color: #b6406b;
 }
 .more-link::after {
 	content: "\f178";
@@ -189,7 +189,7 @@ figure {
 	vertical-align: middle;
 }
 .post-password-form input[type="submit"]:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-error, .lynessa-info, .lynessa-message {
 	padding: 1em 2em 1em 2em;
@@ -222,7 +222,7 @@ figure {
 	color: #fff;
 }
 .lynessa-error .button:hover, .lynessa-info .button:hover, .lynessa-message .button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-error {
 	border-color: #f44336;
@@ -989,7 +989,7 @@ article.sticky .post-title a::before {
 	text-align: center;
 	padding: 0 3px;
 	border-radius: 50%;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	font-size: 12px;
 	color: #ffffff;
 }
@@ -1057,7 +1057,7 @@ article.sticky .post-title a::before {
 }
 .widget_shopping_cart .lynessa-mini-cart__total .lynessa-Price-amount {
 	float: right;
-	color: #cf9163;
+	color: #b6406b;
 	font-size: 14px;
 }
 .widget_shopping_cart .lynessa-mini-cart__buttons {
@@ -1179,7 +1179,7 @@ article.sticky .post-title a::before {
 #widget-area .widget .select2-container--default .select2-selection--multiple .select2-selection__choice {
 	border: none;
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	display: inline-block;
 	width: auto;
 }
@@ -1196,7 +1196,7 @@ article.sticky .post-title a::before {
 	margin-top: 20px;
 }
 .lynessa-widget-layered-nav-dropdown .lynessa-widget-layered-nav-dropdown__submit:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 /*lynessa-widget-layered-nav*/
 #widget-area .widget_categories > ul,
@@ -1245,8 +1245,8 @@ article.sticky .post-title a::before {
 .lynessa-widget-layered-nav .lynessa-widget-layered-nav-list__item label input:checked + span::before,
 .widget_product_categories .cat-item label input + span:hover::before,
 .lynessa-widget-layered-nav .lynessa-widget-layered-nav-list__item label input + span:hover::before {
-	border-color: #cf9163;
-	background-color: #cf9163;
+	border-color: #b6406b;
+	background-color: #b6406b;
 	content: '\f00c';
 	font-family: 'FontAwesome', sans-serif;
 	font-weight: normal;
@@ -1254,8 +1254,8 @@ article.sticky .post-title a::before {
 .widget_categories .cat-item.current-cat a::before,
 .widget_product_categories .cat-item.current-cat label input + span::before,
 .lynessa-widget-layered-nav .lynessa-widget-layered-nav-list__item.chosen a::before {
-	background-color: #cf9163;
-	border-color: #cf9163;
+	background-color: #b6406b;
+	border-color: #b6406b;
 	content: '\f00c';
 	font-family: 'FontAwesome', sans-serif;
 	font-weight: normal;
@@ -1371,7 +1371,7 @@ article.sticky .post-title a::before {
 	opacity: 0.3;
 }
 .normal-effect.dark-bg::after {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .normal-effect.light-bg::after {
 	background-color: #fff;
@@ -1497,14 +1497,14 @@ html, body {
 	font-family: 'Manrope', sans-serif;
 	font-size: 14px;
 	line-height: 26px;
-	color: #666;
+	color: #852648;
 }
 label {
 	font-weight: 600;
 	color: #000;
 }
 a, body .az_custom_heading a {
-	color: #000;
+	color: #fff;
 	text-decoration: none;
 	-webkit-transition: color 0.25s, border-color 0.25s, background-color 0.25s, opacity 0.25s, width 0.25s ease 0s;
 	-moz-transition: color 0.25s, border-color 0.25s, background-color 0.25s, opacity 0.25s, width 0.25s ease 0s;
@@ -1514,7 +1514,7 @@ a, body .az_custom_heading a {
 a:hover, a:focus, a:active {
 	text-decoration: none;
 	outline: none;
-	color: #cf9163;
+	color: #b6406b;
 }
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2;
@@ -1531,7 +1531,7 @@ blockquote, q {
 	padding: 15px 0 15px 20px;
 	margin-top: 10px;
 	margin-bottom: 20px;
-	border-left: 3px solid #cf9163;
+	border-left: 3px solid #b6406b;
 }
 dt, dd {
 	line-height: 30px;
@@ -1676,7 +1676,7 @@ th, td {
 	visibility: visible;
 }
 .owl-slick .slick-arrow:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .owl-slick .slick-arrow.prev {
 	left: -40px;
@@ -1701,7 +1701,7 @@ th, td {
 	visibility: visible;
 }
 .lynessa-products.style-06 .owl-slick .slick-arrow:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-products.style-06 .owl-slick .slick-arrow.prev {
 	right: 40px;
@@ -1724,7 +1724,7 @@ th, td {
 	display: none !important;
 }
 .lynessa-products.style-03 .owl-slick .slick-arrow:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 }
 .lynessa-products.style-03 .owl-slick .slick-arrow.prev {
@@ -1760,11 +1760,13 @@ th, td {
 	padding: 0;
 	position: relative;
 	background-color: #ccc;
-	-webkit-transform: rotate(-45deg);
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 	cursor: pointer;
 }
 .slick-dots li.slick-active button::before {
@@ -1778,7 +1780,7 @@ th, td {
 	border-radius: 50%;
 }
 .slick-dots li.slick-active button {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .slick-vertical {
 	padding-right: 45px;
@@ -1904,7 +1906,7 @@ th, td {
 }
 .header-top-inner .top-bar-menu > .menu-item:hover > a > span,
 .header-top-inner .top-bar-menu > .menu-item:hover > a {
-	color: #cf9163;
+	color: #b6406b;
 }
 /* DROPDOWN */
 .wpml-menu {
@@ -2022,7 +2024,7 @@ th, td {
 	color: #fff;
 }
 .wcml-dropdown a.wcml-cs-item-toggle:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .block-language > a::before,
 .wcml-dropdown a.wcml-cs-item-toggle::before {
@@ -2053,7 +2055,7 @@ th, td {
 	color: #000000;
 }
 .wcml-dropdown .wcml-cs-submenu li:hover > a {
-	color: #cf9163;
+	color: #b6406b;
 }
 .wcml-dropdown li:hover, .wcml-dropdown li:focus {
 	background-color: transparent;
@@ -2110,7 +2112,7 @@ th, td {
 	margin-bottom: 4px;
 }
 .block-menu-bar .menu-bar:hover span {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 @media (max-width: 1024px) {
 	.block-menu-bar {
@@ -2218,7 +2220,7 @@ th, td {
 	color: #868686;
 }
 .box-header-nav .main-menu .menu-item .submenu .menu-item:hover > a {
-	color: #cf9163;
+	color: #b6406b;
 }
 .box-header-nav .main-menu .toggle-submenu {
 	display: none;
@@ -2234,7 +2236,7 @@ th, td {
 	color: #000;
 }
 .box-header-nav .main-menu .menu-item:hover > .toggle-submenu {
-	color: #cf9163;
+	color: #b6406b;
 }
 /*horizon menu*/
 /*sup menu*/
@@ -2316,7 +2318,7 @@ th, td {
 	color: #868686;
 }
 .box-header-nav .main-menu > .menu-item.menu-item-right:hover > a {
-	color: #cf9163;
+	color: #b6406b;
 }
 .box-header-nav .main-menu .menu-item.menu-item-right > a > span {
 	font-size: 24px;
@@ -2391,7 +2393,7 @@ th, td {
 	transition: opacity 0.25s ease 0s;
 }
 .lynessa-dropdown ~ .lynessa-dropdown-close:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-dropdown.open .block-search,
 .lynessa-dropdown.open ~ .lynessa-dropdown-close {
@@ -2408,18 +2410,22 @@ th, td {
 	width: 30px;
 }
 .lynessa-dropdown ~ .lynessa-dropdown-close::before {
-	-webkit-transform: rotate(-45deg);
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .lynessa-dropdown ~ .lynessa-dropdown-close::after {
-	-webkit-transform: rotate(45deg);
+	/* -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); */
+
+	border-radius: 10px;
 }
 .lynessa-dropdown .block-search-form {
 	max-width: 100%;
@@ -2460,7 +2466,7 @@ th, td {
 	line-height: 56px;
 }
 .lynessa-dropdown .block-search-form .btn-submit:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-live-search-form {
 	position: relative;
@@ -2474,7 +2480,7 @@ th, td {
 	height: 25px;
 	margin: auto;
 	border: 3px solid #ccc;
-	border-top-color: #cf9163;
+	border-top-color: #b6406b;
 	border-radius: 50%;
 	-webkit-animation: fa-spin 2s infinite linear;
 	-o-animation: fa-spin 2s infinite linear;
@@ -2495,7 +2501,7 @@ th, td {
 	-moz-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	z-index: 100;
-	border-top: 2px solid #cf9163;
+	border-top: 2px solid #b6406b;
 	margin-top: 12px;
 }
 .lynessa-live-search-form .not-results-search {
@@ -2545,7 +2551,7 @@ th, td {
 	color: #868686;
 }
 .lynessa-live-search-form .product-price ins {
-	color: #cf9163;
+	color: #b6406b;
 	float: left;
 	margin-right: 5px;
 	text-decoration: none;
@@ -2558,7 +2564,7 @@ th, td {
 	border: none;
 }
 .lynessa-live-search-form .keyword-current {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	display: inline-block;
 	padding: 0 3px;
@@ -2610,7 +2616,7 @@ th, td {
 	transition: opacity 0.2s linear;
 }
 .chosen-results > .scroll-element .scroll-bar:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .chosen-results:hover > .scroll-element .scroll-bar,
 .chosen-results > .scroll-element.scroll-draggable .scroll-bar {
@@ -2758,10 +2764,10 @@ th, td {
 }
 .category .chosen-container .chosen-results li.highlighted {
 	background: none;
-	color: #cf9163;
+	color: #b6406b;
 }
 .category .chosen-container .chosen-results li.highlighted::before {
-	color: #cf9163;
+	color: #b6406b;
 }
 .category .chosen-container-single .chosen-search {
 	display: none;
@@ -2798,7 +2804,7 @@ th, td {
 	margin-right: 10px;
 }
 .meta-dreaming .block-link {
-	color: #000;
+	color: #fff;
 }
 .header-light .meta-dreaming .block-link {
 	color: #fff;
@@ -2814,7 +2820,7 @@ th, td {
 	text-align: center;
 	padding: 0 3px;
 	border-radius: 50%;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	font-size: 12px;
 	color: #ffffff;
 }
@@ -2849,7 +2855,7 @@ th, td {
 	-webkit-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	-moz-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
-	border-top: 2px solid #cf9163;
+	border-top: 2px solid #b6406b;
 }
 .block-user:hover .sub-menu {
 	margin-top: 0;
@@ -2915,7 +2921,7 @@ th, td {
 	transition: opacity 0.2s linear;
 }
 .block-minicart .cart_list > .scroll-element .scroll-bar:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .block-minicart .cart_list:hover > .scroll-element .scroll-bar,
 .block-minicart .cart_list > .scroll-element.scroll-draggable .scroll-bar {
@@ -3109,8 +3115,8 @@ th, td {
 	left: 0;
 	right: 0;
 	z-index: 100;
-	background-color: rgba(255, 255, 255, 1);
-	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+	background-color: #bf49749c;
+	 box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
 }
 .admin-bar .header-position.fixed {
 	top: 32px;
@@ -3157,7 +3163,7 @@ th, td {
 .vertical-wrapper.block-nav-category .block-title {
 	padding: 0 20px;
 	cursor: pointer;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	position: relative;
 	max-width: 320px;
@@ -3207,7 +3213,7 @@ th, td {
 	-webkit-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.1);
 	box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.1);
-	border: 2px solid #cf9163;
+	border: 2px solid #b6406b;
 	border-top: none;
 }
 @media (max-width: 1499px) {
@@ -3295,7 +3301,7 @@ th, td {
 .vertical-menu.default > .menu-item.show-submenu > a::after,
 .vertical-menu.default .menu-item.parent:hover > .toggle-submenu,
 .vertical-menu.default .menu-item.show-submenu > .toggle-submenu {
-	color: #cf9163;
+	color: #b6406b;
 }
 .vertical-menu.default .submenu {
 	list-style: none;
@@ -3319,7 +3325,7 @@ th, td {
 	position: relative;
 	margin: 0 20px;
 	text-align: center;
-	color: #cf9163;
+	color: #b6406b;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 0.1em;
@@ -3616,12 +3622,14 @@ th, td {
 	position: absolute;
 	right: 0;
 	top: 46%;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .header.style-04 .box-header-nav .main-menu > .menu-item:last-child::after {
 	display: none;
@@ -3696,18 +3704,22 @@ th, td {
 	width: 20px;
 }
 .header-mobile .header-search.open .link-dropdown .flaticon-magnifying-glass-browser::before {
-	-webkit-transform: rotate(-45deg);
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .header-mobile .header-search.open .link-dropdown .flaticon-magnifying-glass-browser::after {
-	-webkit-transform: rotate(45deg);
+	/* -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); */
+
+	border-radius: 10px;
 }
 @media (min-width: 1025px) {
 	.header-mobile {
@@ -3805,12 +3817,14 @@ a.backtotop::after {
 	-moz-transition: top 0.25s ease 0s;
 	-o-transition: top 0.25s ease 0s;
 	transition: top 0.25s ease 0s;
-	background-color: #cf9163;
-	-webkit-transform: rotate(45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); */
+
+	border-radius: 10px;
 }
 a.backtotop::before {
 	position: absolute;
@@ -3873,12 +3887,14 @@ a.backtotop:hover::before {
 	width: 4px;
 	height: 4px;
 	margin-left: -2px;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .post-item .post-author,
 .post-item .date,
@@ -4099,7 +4115,7 @@ a.backtotop:hover::before {
 	visibility: visible;
 }
 .post-item .slick-arrow:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff !important;
 }
 .post-item .slick-arrow.prev {
@@ -4131,7 +4147,7 @@ a.backtotop:hover::before {
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	border-bottom: 2px solid #cf9163;
+	border-bottom: 2px solid #b6406b;
 	width: 100%;
 }
 .post-thumb {
@@ -4172,7 +4188,7 @@ a.backtotop:hover::before {
 	left: 10px;
 	z-index: 2;
 	display: inline-block;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	display: none;
 }
 .datebox span:first-child {
@@ -4497,7 +4513,7 @@ a.backtotop:hover::before {
 	display: inline-block;
 }
 .comment-form .form-submit #submit:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-Reviews-title {
 	display: none;
@@ -4583,7 +4599,7 @@ body.single .main-container {
 	content: '';
 	width: 70px;
 	height: 4px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	position: absolute;
 	bottom: 0;
 	left: 50%;
@@ -4701,12 +4717,14 @@ body.single-product .lynessa-breadcrumb {
 	left: 0;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 #widget-area .widgettitle a {
 	color: inherit;
@@ -4744,7 +4762,7 @@ body.single-product .lynessa-breadcrumb {
 .widget_categories .cat-item.current-cat > a,
 .widget_pages .page_item.current_page_item > a,
 .widget_product_categories .cat-item.current-cat > a {
-	color: #cf9163;
+	color: #b6406b;
 }
 /*widget_search*/
 #widget-area .widget.widget_search .widgettitle {
@@ -4783,7 +4801,7 @@ body.single-product .lynessa-breadcrumb {
 }
 .widget_product_search .lynessa-product-search button[type="submit"]:hover,
 .widget_search .search-form button:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 /*widget-lynessa-socials*/
 .widget-lynessa-socials .socials-list {
@@ -4820,14 +4838,16 @@ body.single-product .lynessa-breadcrumb {
 	-o-transition: top 0.25s ease 0s;
 	transition: top 0.25s ease 0s;
 	background-color: #000;
-	-webkit-transform: rotate(45deg);
+	/* -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); */
+
+	border-radius: 10px;
 }
 .widget-lynessa-socials .socials-list li a:hover::before {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .widget-lynessa-socials .socials-list li a span {
 	font-size: 16px;
@@ -4854,7 +4874,7 @@ body.single-product .lynessa-breadcrumb {
 	line-height: 44px;
 }
 .widget-lynessa-mailchimp .newsletter-form-wrap .submit-newsletter {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	min-width: 125px;
 	height: 39px;
 	line-height: 39px;
@@ -5032,7 +5052,7 @@ body #widget-area .select2-container--default .select2-selection--single {
 #widget-area .widget .select2-container--default .select2-selection--multiple .select2-selection__choice {
 	border: none;
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 #widget-area .widget .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
 	color: #fff;
@@ -5043,7 +5063,7 @@ body #widget-area .select2-container--default .select2-selection--single {
 	height: 45px;
 	line-height: 45px;
 	font-size: 14px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	margin-top: 20px;
 }
 .lynessa-widget-layered-nav-dropdown .lynessa-widget-layered-nav-dropdown__submit:hover {
@@ -5079,7 +5099,7 @@ body #widget-area .select2-container--default .select2-selection--single {
 	font-size: 12px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	position: relative;
 	overflow: hidden;
 	border-radius: 0;
@@ -5130,7 +5150,7 @@ body #widget-area .select2-container--default .select2-selection--single {
 }
 .widget_price_filter .ui-slider-range {
 	height: 5px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	position: absolute;
 	top: 0;
 }
@@ -5335,8 +5355,8 @@ body #widget-area .select2-container--default .select2-selection--single {
 .post-pagination a span:hover,
 .pagination .page-numbers.current,
 .pagination .page-numbers:hover {
-	color: #cf9163;
-	border-color: #cf9163;
+	color: #b6406b;
+	border-color: #b6406b;
 }
 .lynessa-pagination .page-numbers.prev,
 .lynessa-pagination .page-numbers.next,
@@ -5455,8 +5475,8 @@ ul.products li.product-category a .lynessa-loop-category__title mark {
 .grid-view-mode .modes-mode:focus,
 .grid-view-mode .modes-mode:active,
 .grid-view-mode .modes-mode.active {
-	color: #cf9163;
-	border-color: #cf9163;
+	color: #b6406b;
+	border-color: #b6406b;
 }
 .grid-view-mode .modes-mode .button-inner {
 	font-size: 0;
@@ -5786,18 +5806,22 @@ html.yith-quick-view-is-open body {
 	width: 17px;
 }
 #yith-quick-view-close::before {
-	-webkit-transform: rotate(-45deg);
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 #yith-quick-view-close::after {
-	-webkit-transform: rotate(45deg);
+	/* -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); */
+
+	border-radius: 10px;
 }
 #yith-quick-view-close:not(:hover) {
 	color: #000;
@@ -5902,7 +5926,7 @@ body.admin-bar #yith-quick-view-modal {
 	display: none;
 }
 .onsale {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .sold-out {
 	background-color: #b6b6b6;
@@ -5936,14 +5960,14 @@ body.admin-bar #yith-quick-view-modal {
 .price {
 	display: inline-block;
 	font-size: 14px;
-	color: #cf9163;
+	color: #b6406b;
 }
 .price del {
 	font-size: 14px;
 	color: #8a8a8a;
 }
 .price ins {
-	color: #cf9163;
+	color: #b6406b;
 	margin-right: 5px;
 	text-decoration: none;
 }
@@ -6069,7 +6093,7 @@ body.admin-bar #yith-quick-view-modal {
 }
 #yith-wcwl-popup-message {
 	margin: 0 !important;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	border: none;
 	
@@ -6225,7 +6249,7 @@ body.admin-bar #yith-quick-view-modal {
 	bottom: 2px;
 	border-radius: 9px;
 	display: block;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .countdown-product .lynessa-countdown {
 	margin-bottom: 20px;
@@ -6296,7 +6320,7 @@ body.admin-bar #yith-quick-view-modal {
 .product-item.style-01 .group-button .compare-button,
 .product-item.style-01 .group-button .yith-wcqv-button {
 	display: block;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	border-radius: 0;
 	opacity: 0;
 	visibility: hidden;
@@ -6394,7 +6418,7 @@ body.admin-bar #yith-quick-view-modal {
 	-moz-transition: all 0.25s ease 0s;
 	-o-transition: all 0.25s ease 0s;
 	transition: all 0.25s ease 0s;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	width: 90px;
 	font-weight: 600;
@@ -6407,7 +6431,7 @@ body.admin-bar #yith-quick-view-modal {
 	padding-right: 16px;
 }
 .product-item.style-02 .yith-wcqv-button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 }
 .product-item.style-02 .product-inner:hover .yith-wcqv-button {
@@ -6437,7 +6461,7 @@ body.admin-bar #yith-quick-view-modal {
 	-o-transition: all 0.25s ease 0s;
 	transition: all 0.25s ease 0s;
 	z-index: 10;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	-webkit-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	-moz-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
@@ -6489,7 +6513,7 @@ body.admin-bar #yith-quick-view-modal {
 }
 .product-item.style-03 .add-to-cart a {
 	padding: 0 15px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	border-radius: 0;
 	font-size: 12px;
@@ -6499,7 +6523,7 @@ body.admin-bar #yith-quick-view-modal {
 	height: 40px;
 }
 .product-item.style-03 .add-to-cart a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 }
 .product-item.style-03 .add-to-cart a::before {
@@ -6544,7 +6568,7 @@ body.admin-bar #yith-quick-view-modal {
 .product-item.style-04 .group-button .yith-wcqv-button {
 	display: inline-block;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, .08);
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	border-radius: 0;
 	opacity: 0;
@@ -6637,7 +6661,7 @@ body.admin-bar #yith-quick-view-modal {
 	-ms-transform: translateX(-60px);
 	-o-transform: translateX(-60px);
 	transform: translateX(-60px);
-	background-color: #cf9163;
+	background-color: #b6406b;
 	margin-top: 7px;
 	color: #fff;
 	border-radius: 0;
@@ -6752,7 +6776,7 @@ body.admin-bar #yith-quick-view-modal {
 	font-size: 20px;
 }
 .product-gallery .gallery-dots .slick-arrow:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .product-gallery .gallery-dots img {
 	border: 1px solid #e7e7e7;
@@ -6760,12 +6784,12 @@ body.admin-bar #yith-quick-view-modal {
 	margin: 1px 0;
 }
 .product-gallery .gallery-dots .slick-current img {
-	border-color: #cf9163;
+	border-color: #b6406b;
 }
 .product-item.style-07 .title {
 	font-size: 40px;
 	margin-bottom: 20px;
-	color: #cf9163;
+	color: #b6406b;
 }
 .product-item.style-07 .onsale {
 	display: none;
@@ -6782,7 +6806,7 @@ body.admin-bar #yith-quick-view-modal {
 }
 .product-item.style-07 .price ins {
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	padding: 3px 10px 3px;
 	border-radius: 20px;
 }
@@ -6795,14 +6819,14 @@ body.admin-bar #yith-quick-view-modal {
 .product-item.style-07 .add-to-cart a {
 	font-size: 14px;
 	padding: 0 15px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	border-radius: 0;
 	color: #fff;
 	font-weight: 400;
 	text-transform: capitalize;
 }
 .product-item.style-07 .add-to-cart a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 }
 .product-item.style-07 .add-to-cart a::before {
@@ -6901,8 +6925,8 @@ body.admin-bar #yith-quick-view-modal {
 }
 .product-item.list .group-button .add-to-cart:hover {
 	color: #fff;
-	background-color: #cf9163;
-	border-color: #cf9163;
+	background-color: #b6406b;
+	border-color: #b6406b;
 }
 .product-item.list .group-button .add-to-cart a:hover {
 	color: #fff;
@@ -7330,7 +7354,7 @@ body.admin-bar #yith-quick-view-modal {
 	width: 42px;
 	line-height: 42px;
 	border-radius: 0;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	-webkit-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	-moz-box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 	box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
@@ -7380,7 +7404,7 @@ body.admin-bar #yith-quick-view-modal {
 	border: 1px solid #ebebeb;
 }
 .lynessa-product-gallery .flex-control-nav.flex-control-thumbs li img.flex-active {
-	border-color: #cf9163;
+	border-color: #b6406b;
 }
 .lynessa-product-gallery .flex-control-nav.flex-control-thumbs .slick-arrow {
 	height: 20px;
@@ -7391,7 +7415,7 @@ body.admin-bar #yith-quick-view-modal {
 	z-index: 9;
 	width: 100%;
 	border-radius: 0;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	margin-bottom: 10px;
 	display: inline-block;
@@ -7446,7 +7470,7 @@ body.admin-bar #yith-quick-view-modal {
 	color: #000;
 }
 .stock.in-stock span {
-	color: #cf9163;
+	color: #b6406b;
 }
 .stock.out-stock span {
 	color: #f44336;
@@ -7473,7 +7497,7 @@ body.admin-bar #yith-quick-view-modal {
 	font-size: 9px;
 	vertical-align: top;
 	margin-right: 5px;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-product-details__short-description p {
 	margin-bottom: 6px;
@@ -7509,7 +7533,7 @@ body.admin-bar #yith-quick-view-modal {
 	letter-spacing: 0.1em;
 }
 .entry-summary form.cart.variations_form .variations .reset_variations:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .entry-summary .cart .single_add_to_cart_button {
 	vertical-align: middle;
@@ -7527,7 +7551,7 @@ body.admin-bar #yith-quick-view-modal {
 	border-radius: 0;
 }
 .entry-summary .cart .single_add_to_cart_button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .entry-summary .cart .single_add_to_cart_button::before {
 	font-weight: normal;
@@ -7608,7 +7632,7 @@ div.quantity .btn-number {
 	position: absolute;
 }
 div.quantity .btn-number:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 div.quantity .btn-number.quantity-plus {
 	top: 4px;
@@ -7651,7 +7675,7 @@ div.quantity .btn-number.quantity-minus::before {
 	margin-right: 5px;
 }
 .entry-summary .yith-wcwl-add-to-wishlist a:hover::before {
-	color: #cf9163;
+	color: #b6406b;
 }
 .entry-summary .yith-wcwl-add-to-wishlist a:not(:hover) {
 	color: #000;
@@ -7664,7 +7688,7 @@ div.quantity .btn-number.quantity-minus::before {
 	font-size: 14px;
 }
 .entry-summary .yith-wcwl-add-to-wishlist .add_to_wishlist:hover::before {
-	color: #cf9163;
+	color: #b6406b;
 }
 .entry-summary .compare {
 	font-size: 14px;
@@ -7679,7 +7703,7 @@ div.quantity .btn-number.quantity-minus::before {
 	top: -2px;
 }
 .entry-summary .compare:hover::before {
-	color: #cf9163;
+	color: #b6406b;
 }
 .entry-summary .compare:not(:hover) {
 	color: #000;
@@ -7711,7 +7735,7 @@ div.quantity .btn-number.quantity-minus::before {
 	transform: translateY(-50%);
 	left: 0;
 	width: 40px;
-	background: #cf9163;
+	background: #b6406b;
 	text-align: center;
 	z-index: 999;
 	padding: 5px 10px;
@@ -7954,11 +7978,11 @@ div.quantity .btn-number.quantity-minus::before {
 .dreaming-wrap .total-price-html {
 	font-size: 30px;
 	margin-bottom: 8px;
-	color: #cf9163;
+	color: #b6406b;
 }
 .dreaming-wrap .dreaming-products-wrap .dreaming-product .dreaming-price,
 .dreaming-wrap .dreaming-item .dreaming-price {
-	color: #cf9163;
+	color: #b6406b;
 }
 .dreaming-wrap .btn-primary {
 	background-color: transparent;
@@ -7976,8 +8000,8 @@ div.quantity .btn-number.quantity-minus::before {
 }
 .dreaming-wrap .btn-primary:hover {
 	background-color: transparent;
-	color: #cf9163;
-	border-color: #cf9163;
+	color: #b6406b;
+	border-color: #b6406b;
 }
 .dreaming-wrap .dreaming-left-part {
 	padding-right: 15px;
@@ -8050,7 +8074,7 @@ div.quantity .btn-number.quantity-minus::before {
 	color: #8a8a8a;
 }
 .dreaming-price ins {
-	color: #cf9163;
+	color: #b6406b;
 	float: left;
 	margin-right: 5px;
 	text-decoration: none;
@@ -8118,7 +8142,7 @@ div.quantity .btn-number.quantity-minus::before {
 .dreaming-tabs li a:hover,
 .dreaming-tabs li.active a {
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 /*.lynessa-Tabs-panel*/
 .lynessa-Tabs-panel {
@@ -8227,12 +8251,14 @@ p.stars a:hover ~ a:before, p.stars.selected:not(:hover) a.active ~ a:before {
 	width: 4px;
 	height: 4px;
 	margin-left: -2px;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .block-title .product-grid-title span::before {
 	position: absolute;
@@ -8241,7 +8267,7 @@ p.stars a:hover ~ a:before, p.stars.selected:not(:hover) a.active ~ a:before {
 	left: -14px;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .block-title .product-grid-title span::after {
 	position: absolute;
@@ -8250,7 +8276,7 @@ p.stars a:hover ~ a:before, p.stars.selected:not(:hover) a.active ~ a:before {
 	right: -14px;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .categories-product-dreaming {
 	padding-bottom: 45px;
@@ -8338,8 +8364,8 @@ p.stars a:hover ~ a:before, p.stars.selected:not(:hover) a.active ~ a:before {
 }
 .categories-product-dreaming .block-title a:hover {
 	color: #fff;
-	background-color: #cf9163;
-	border-color: #cf9163;
+	background-color: #b6406b;
+	border-color: #b6406b;
 }
 .categories-product-dreaming .slick-arrow {
 	width: 40px;
@@ -8368,8 +8394,8 @@ p.stars a:hover ~ a:before, p.stars.selected:not(:hover) a.active ~ a:before {
 	right: -20px;
 }
 .categories-product-dreaming .slick-arrow:hover {
-	background-color: #cf9163;
-	border-color: #cf9163;
+	background-color: #b6406b;
+	border-color: #b6406b;
 	color: #fff;
 }
 /*recently-reviewed-product*/
@@ -8499,7 +8525,7 @@ body.lynessa-cart .return-to-shop a {
 	display: inline-block;
 }
 body.lynessa-cart .return-to-shop a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .cart-collaterals {
 	display: inline-block;
@@ -8574,7 +8600,7 @@ body.lynessa-cart .shop_table tr th.product-subtotal {
 	color: #000;
 }
 .shop_table .product-name a:not(.button):hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-cart-form .shop_table {
 	margin-bottom: 0;
@@ -8644,7 +8670,7 @@ body.lynessa-cart .shop_table tr th.product-subtotal {
 	border-radius: 0;
 }
 .lynessa-cart-form .shop_table .actions button.button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-cart-form .shop_table .actions > button.button {
 	float: right;
@@ -8656,7 +8682,7 @@ body.lynessa-cart .shop_table tr th.product-subtotal {
 	font-size: 24px;
 	font-weight: 500;
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	padding: 25px;
 	margin: 0;
 	border-radius: 6px 6px 0 0;
@@ -8695,7 +8721,7 @@ body.lynessa-cart .shop_table tr th.product-subtotal {
 }
 .cart_totals .shop_table tr.order-total strong {
 	font-size: 18px;
-	color: #cf9163;
+	color: #b6406b;
 	font-weight: normal;
 }
 .lynessa-shipping-calculator > p {
@@ -8738,7 +8764,7 @@ body.lynessa-cart .shop_table tr th.product-subtotal {
 	border-radius: 0 0 6px 6px;
 }
 .lynessa-proceed-to-checkout .checkout-button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 body.lynessa-cart .no-sidebar .lynessa-cart-form {
 	float: left;
@@ -8910,7 +8936,7 @@ body.lynessa-cart .no-sidebar .cart-collaterals {
 	color: #000;
 }
 .lynessa-form__label-for-checkbox .lynessa-form__input-checkbox:checked + span::before {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-form__label-for-checkbox .lynessa-form__input-checkbox:checked + span::after {
 	content: "";
@@ -8955,7 +8981,7 @@ body.lynessa-cart .no-sidebar .cart-collaterals {
 }
 #payment .input-radio:hover + label::before,
 #payment .input-radio:checked + label::before {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 #payment .input-radio:hover + label::after,
 #payment .input-radio:checked + label::after {
@@ -9048,7 +9074,7 @@ body .select2-container--default .select2-results__option[data-selected="true"] 
 	height: 84px;
 	line-height: 84px;
 	border-radius: 50%;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	content: "\e61c";
 	font-family: 'Pe-icon-7-stroke', sans-serif;
@@ -9097,7 +9123,7 @@ body .select2-container--default .select2-results__option[data-selected="true"] 
 	font-weight: 600;
 }
 .checkout_coupon .button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-checkout-login .lynessa-form-login {
 	padding: 35px 25px 10px 25px;
@@ -9220,7 +9246,7 @@ form.lynessa-checkout::after {
 	font-size: 24px;
 	font-weight: 500;
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	padding: 25px;
 	margin: 0;
 }
@@ -9272,7 +9298,7 @@ form.lynessa-checkout::after {
 }
 #order_review .shop_table tfoot tr.order-total td strong {
 	font-size: 20px;
-	color: #cf9163;
+	color: #b6406b;
 }
 #order_review .shop_table tbody tr:first-child td,
 #order_review .shop_table tbody tr:first-child th,
@@ -9297,7 +9323,7 @@ form.lynessa-checkout::after {
 	padding: 0 30px;
 }
 #place_order {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	height: 52px;
 	line-height: 52px;
@@ -9421,7 +9447,7 @@ form.lynessa-checkout::after {
 	padding: 25px;
 	margin: 0;
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-order .lynessa-customer-details {
 	background: #f6f6f6;
@@ -9594,7 +9620,7 @@ body.lynessa-account .lynessa-notices-wrapper ~ h2::before {
 	height: 84px;
 	line-height: 80px;
 	border-radius: 50%;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 	vertical-align: middle;
 	text-align: center;
@@ -9690,7 +9716,7 @@ address {
 	height: 84px;
 	line-height: 80px;
 	border-radius: 50%;
-	color: #cf9163;
+	color: #b6406b;
 	vertical-align: middle;
 	text-align: center;
 	margin-right: 20px;
@@ -9717,7 +9743,7 @@ form.register .button {
 	height: 52px;
 	line-height: 52px;
 	border-radius: 0;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	display: inline-block;
 	min-width: 160px;
 	width: 100%;
@@ -9777,7 +9803,7 @@ form.lynessa-form-login .lost_password a::before {
 	border-top: 1px solid #ebebeb;
 }
 .lynessa-MyAccount-navigation > ul li.is-active a {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-MyAccount-content .form-row label {
 	display: block;
@@ -9802,7 +9828,7 @@ form.lynessa-form-login .lost_password a::before {
 	background-color: #1b1b1b;
 }
 .lynessa-MyAccount-content fieldset ~ p .lynessa-Button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-MyAccount-content .form-row input {
 	width: 100%;
@@ -9871,7 +9897,7 @@ form.lynessa-form-login .lost_password a::before {
 	min-width: 150px;
 }
 .lynessa-ResetPassword .form-row .lynessa-Button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-ResetPassword .form-row {
 	float: none;
@@ -9974,7 +10000,7 @@ form.lynessa-form-login .lost_password a::before {
 	font-size: 14px;
 }
 .lynessa table.wishlist_table tr td.product-stock-status span.wishlist-in-stock {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa table.wishlist_table td.product-add-to-cart {
 	border-right: 0;
@@ -9994,7 +10020,7 @@ form.lynessa-form-login .lost_password a::before {
 	border-radius: 0;
 }
 .lynessa table.wishlist_table td.product-add-to-cart a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa table.wishlist_table tfoot td {
 	padding: 0;
@@ -10042,7 +10068,7 @@ form.lynessa-form-login .lost_password a::before {
 	font-weight: 500;
 }
 .dreaming-wccp-content-wrap .dreaming-Price-amount {
-	color: #cf9163;
+	color: #b6406b;
 	font-weight: 500;
 }
 .dreaming-wccp-content-wrap .dreaming-wccp-left-part {
@@ -10138,7 +10164,7 @@ form.lynessa-form-login .lost_password a::before {
 	margin: 0 auto;
 	display: table;
 	border-radius: 0;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	font-weight: 500;
 	min-width: 160px;
 	height: 52px;
@@ -10187,7 +10213,7 @@ body.error404 .header {
 	border-radius: 0;
 }
 .main-container.error-404 .button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 @media (max-width: 1199px) {
 	.page-title {
@@ -10228,7 +10254,7 @@ body.error404 .header {
 	opacity: 1;
 }
 #popup-newsletter button.close:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 #popup-newsletter button.close::before,
 #popup-newsletter button.close::after {
@@ -10240,18 +10266,22 @@ body.error404 .header {
 	width: 17px;
 }
 #popup-newsletter button.close::before {
-	-webkit-transform: rotate(-45deg);
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 #popup-newsletter button.close::after {
-	-webkit-transform: rotate(45deg);
+	/* -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); */
+
+	border-radius: 10px;
 }
 #popup-newsletter .modal-inner {
 	overflow: hidden;
@@ -10298,7 +10328,7 @@ body.error404 .header {
 	font-weight: 600;
 }
 #popup-newsletter .newsletter-form-wrap .submit-newsletter:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 #popup-newsletter .checkbox {
 	text-align: right;
@@ -10466,7 +10496,7 @@ body.error404 .header {
 	letter-spacing: 0.05em;
 	color: #ffffff;
 	padding: 0 25px;
-	background: #cf9163;
+	background: #b6406b;
 }
 /*.lynessa-banner.style-01*/
 .lynessa-banner.style-01 .banner-thumb {
@@ -10549,7 +10579,7 @@ body.error404 .header {
 	font-family: 'Kaushan Script', sans-serif;
 	margin-bottom: 15px;
 	position: relative;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-banner.style-02 .subtitle {
 	margin-bottom: 23px;
@@ -10727,7 +10757,7 @@ body.error404 .header {
 	line-height: 1;
 	margin-bottom: 20px;
 	position: relative;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-banner.style-07 .cate {
 	font-size: 30px;
@@ -11390,12 +11420,14 @@ body.error404 .header {
 	width: 4px;
 	height: 4px;
 	margin-left: -2px;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .lynessa-heading.style-01 .title span::before {
 	position: absolute;
@@ -11404,7 +11436,7 @@ body.error404 .header {
 	left: -14px;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-heading.style-01 .title span::after {
 	position: absolute;
@@ -11413,7 +11445,7 @@ body.error404 .header {
 	right: -14px;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-heading.style-01 .subtitle {
 	max-width: 490px;
@@ -11427,7 +11459,7 @@ body.error404 .header {
 	font-size: 80px;
 	line-height: 80px;
 	margin-bottom: 15px;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-heading.style-02 .title {
 	font-size: 34px;
@@ -11492,14 +11524,14 @@ body.error404 .header {
 	border-radius: 0;
 }
 .lynessa-iconbox.style-01 .iconbox-inner:hover {
-	border-color: #cf9163;
+	border-color: #b6406b;
 }
 .lynessa-iconbox.style-01 .icon {
 	display: table-cell;
 	vertical-align: middle;
 	font-size: 50px;
 	width: 80px;
-	color: #cf9163;
+	color: #b6406b;
 	position: relative;
 }
 .lynessa-iconbox.style-01 .icon span:last-child {
@@ -11528,7 +11560,7 @@ body.error404 .header {
 	font-size: 50px;
 	line-height: 50px;
 	padding-bottom: 10px;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-iconbox.style-02 .iconbox-inner .icon span {
 	display: inline-block;
@@ -11553,14 +11585,14 @@ body.error404 .header {
 	border-radius: 0;
 }
 .lynessa-iconbox.style-03 .iconbox-inner:hover {
-	border-color: #cf9163;
+	border-color: #b6406b;
 }
 .lynessa-iconbox.style-03 .icon {
 	display: table-cell;
 	vertical-align: top;
 	font-size: 50px;
 	width: 70px;
-	color: #cf9163;
+	color: #b6406b;
 	position: relative;
 }
 .lynessa-iconbox.style-03 .title {
@@ -11586,7 +11618,7 @@ body.error404 .header {
 	display: block;
 }
 .lynessa-instagram .item::before {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	bottom: 10px;
 	content: "";
 	left: 10px;
@@ -11689,7 +11721,7 @@ body.error404 .header {
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-listitem.style-02 .title {
 	color: #fff;
@@ -11730,12 +11762,14 @@ footer .lynessa-listitem.style-02 li {
 	left: -13px;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .lynessa-listitem.style-04 li {
 	line-height: 30px;
@@ -11744,7 +11778,7 @@ footer .lynessa-listitem.style-04 li {
 	margin-bottom: 10px;
 }
 .lynessa-listitem.style-04 li a::before {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	bottom: 0;
 	content: "";
 	height: 1px;
@@ -11796,7 +11830,7 @@ footer .lynessa-listitem.style-04 li {
 	font-size: 18px;
 	font-weight: 500;
 	margin-top: 10px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	cursor: pointer;
 }
 .wpcf7-form .wpcf7-submit:hover {
@@ -11852,7 +11886,7 @@ footer .lynessa-listitem.style-04 li {
 	box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.05);
 }
 .lynessa-team .list-social a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 	color: #fff;
 }
 .lynessa-team .name {
@@ -11951,7 +11985,7 @@ footer .lynessa-listitem.style-04 li {
 	font-weight: 700;
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
-	color: #cf9163;
+	color: #b6406b;
 	margin-bottom: 5px;
 }
 .lynessa-newsletter.style-01 .subtitle {
@@ -11992,7 +12026,7 @@ footer .lynessa-listitem.style-04 li {
 	letter-spacing: 0.1em;
 }
 .lynessa-newsletter.style-01 .submit-newsletter::before {
-	background: #cf9163;
+	background: #b6406b;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -12053,7 +12087,7 @@ footer .lynessa-listitem.style-04 li {
 	line-height: 44px;
 	padding: 0 15px;
 	min-width: 130px;
-	background: #cf9163;
+	background: #b6406b;
 	text-align: center;
 	color: #fff;
 	font-size: 12px;
@@ -12093,7 +12127,7 @@ footer .lynessa-listitem.style-04 li {
 	font-weight: 600;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	color: #cf9163;
+	color: #b6406b;
 	margin-bottom: 5px;
 }
 .lynessa-newsletter.style-03 .subtitle {
@@ -12153,7 +12187,7 @@ footer .lynessa-listitem.style-04 li {
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-newsletter.style-04 .subtitle {
 	font-size: 25px;
@@ -12229,7 +12263,7 @@ footer .lynessa-listitem.style-04 li {
 	font-size: 89px;
 	float: left;
 	line-height: 1;
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-newsletter.style-05 .title {
 	font-size: 26px;
@@ -12366,7 +12400,7 @@ footer .lynessa-listitem.style-04 li {
 	position: relative;
 	margin-bottom: 30px;
 	margin-top: 0;
-	border-left: 3px solid #cf9163;
+	border-left: 3px solid #b6406b;
 	text-transform: capitalize;
 }
 .lynessa-popupvideo .button {
@@ -12384,7 +12418,7 @@ footer .lynessa-listitem.style-04 li {
 	margin-top: 30px;
 }
 .lynessa-popupvideo .button:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-popupvideo .icon {
 	float: left;
@@ -12437,7 +12471,7 @@ footer .lynessa-listitem.style-04 li {
 	display: block;
 	border-width: 9px 0 9px 12px;
 	border-style: solid;
-	border-color: transparent transparent transparent #cf9163;
+	border-color: transparent transparent transparent #b6406b;
 }
 .videobox_animation {
 	-webkit-animation-play-state: running;
@@ -12615,12 +12649,14 @@ ul.products {
 	left: 0;
 	width: 4px;
 	height: 4px;
-	background-color: #cf9163;
-	-webkit-transform: rotate(-45deg);
+	background-color: #b6406b;
+	/* -webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	transform: rotate(-45deg); */
+
+	border-radius: 10px;
 }
 .shop-all {
 	margin-top: 20px;
@@ -12644,7 +12680,7 @@ ul.products {
 	opacity: 0.6;
 	bottom: -9px;
 	height: 20px;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	z-index: -1;
 	-webkit-transition: all 0.25s ease 0s;
 	-moz-transition: all 0.25s ease 0s;
@@ -12688,7 +12724,7 @@ ul.products {
 	top: 5px;
 	left: 0;
 	width: 35px;
-	border-bottom: 2px solid #cf9163;
+	border-bottom: 2px solid #b6406b;
 }
 .lynessa-socials.style-01 .socials-list li {
 	display: inline-block;
@@ -12709,7 +12745,7 @@ ul.products {
 	text-align: center;
 	position: relative;
 }
-.lynessa-socials.style-01 .socials-list li a::before {
+/* .lynessa-socials.style-01 .socials-list li a::before {
 	content: '';
 	position: absolute;
 	top: 0;
@@ -12721,14 +12757,30 @@ ul.products {
 	-o-transition: top 0.25s ease 0s;
 	transition: top 0.25s ease 0s;
 	background-color: #000;
-	-webkit-transform: rotate(45deg);
+	 -webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
+	transform: rotate(45deg); 
+
+} */
+.lynessa-socials.style-01 .socials-list li a::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    -webkit-transition: top 0.25s ease 0s;
+    -moz-transition: top 0.25s ease 0s;
+    -o-transition: top 0.25s ease 0s;
+    transition: top 0.25s ease 0s;
+    background-color: #000;
+	border-radius: 10px;
 }
+
 .lynessa-socials.style-01 .socials-list li a:hover::before {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-socials.style-01 .socials-list li a i {
 	position: relative;
@@ -12749,7 +12801,7 @@ ul.products {
 	bottom: 0;
 	left: 0;
 	width: 40px;
-	border-bottom: 2px solid #cf9163;
+	border-bottom: 2px solid #b6406b;
 }
 .lynessa-socials.style-02 .socials-list li {
 	display: inline-block;
@@ -12789,7 +12841,7 @@ ul.products {
 	transform: scale(0.3);
 	opacity: 0;
 	visibility: hidden;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	border-radius: 50%;
 }
 .lynessa-socials.style-02 .socials-list li a:hover {
@@ -12844,7 +12896,7 @@ ul.products {
 	-moz-transition: top 0.25s ease 0s;
 	-o-transition: top 0.25s ease 0s;
 	transition: top 0.25s ease 0s;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-socials.style-03 .socials-list li a:hover::before {
 	top: -1px;
@@ -12913,7 +12965,7 @@ ul.products {
 .lynessa-tabs.style-01 .tab-link li a:hover,
 .lynessa-tabs.style-01 .tab-link li.active a {
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 @media (max-width: 480px) {
 	.lynessa-tabs.style-01 .tab-link li {
@@ -12947,7 +12999,7 @@ ul.products {
 }
 .lynessa-testimonial.style-01 .thumb img {
 	border-radius: 50%;
-	border: 3px solid #cf9163;
+	border: 3px solid #b6406b;
 	margin: 0 auto 25px;
 }
 .lynessa-testimonial.style-01 .intro {
@@ -12983,7 +13035,7 @@ ul.products {
 	content: '\f10d';
 	font-family: 'FontAwesome', sans-serif;
 	font-size: 32px;
-	color: #cf9163;
+	color: #b6406b;
 	background: #fff;
 	border-radius: 50%;
 	width: 60px;
@@ -12998,7 +13050,7 @@ ul.products {
 }
 .lynessa-testimonial.style-02 .thumb img {
 	border-radius: 50%;
-	border: 3px solid #cf9163;
+	border: 3px solid #b6406b;
 }
 .lynessa-testimonial.style-02 .intro {
 	display: inline-block;
@@ -13077,13 +13129,13 @@ ul.products {
 	margin: 0;
 	padding: 15px 15px 15px 28px;
 	text-transform: uppercase;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	
 }
 .lynessa-verticalmenu.block-nav-category .block-content {
 	background-color: #fff;
 	text-align: left;
-	border: 3px solid #cf9163;
+	border: 3px solid #b6406b;
 	border-top: none;
 	
 }
@@ -13130,7 +13182,7 @@ body.wpb-js-composer .az_tta-style-classic .az_tta-panel .az_tta-panel-title > a
 }
 body.wpb-js-composer .az_tta-style-classic .az_tta-panel.az_active .az_tta-panel-title > a {
 	color: #fff !important;
-	background-color: #cf9163 !important;
+	background-color: #b6406b !important;
 }
 body.wpb-js-composer .az_tta.az_tta-accordion .az_tta-controls-icon-position-right .az_tta-controls-icon {
 	right: 20px !important;
@@ -13263,7 +13315,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	position: relative;
 	overflow: hidden;
 	padding: 0 15px;
@@ -13294,7 +13346,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	animation: shine .75s;
 }
 .lynessa-pricing.featured .pricing-inner {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 .lynessa-pricing.featured .title {
 	color: #fff;
@@ -13438,7 +13490,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	letter-spacing: 0.05em;
 	color: #ffffff;
 	padding: 0 35px;
-	background: #cf9163;
+	background: #b6406b;
 }
 .slide-wrap .slide-info a:hover {
 	background-color: #000;
@@ -13463,7 +13515,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	font-size: 90px;
 	font-family: 'Kaushan Script', sans-serif;
 	font-weight: 400;
-	color: #cf9163;
+	color: #b6406b;
 	width: calc(50% + 30px);
 	float: left;
 	text-align: right;
@@ -13474,7 +13526,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	font-size: 90px;
 	font-family: 'Kaushan Script', sans-serif;
 	font-weight: 400;
-	color: #cf9163;
+	color: #b6406b;
 	width: calc(50% + 30px);
 	float: right;
 	text-align: left;
@@ -13496,7 +13548,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	background-color: #000;
 }
 .slide-home-01 .slide-wrap .slide-info a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 /*.slide-home-02*/
 .slide-home-02 .slide-wrap .slide-info h5 {
@@ -13505,13 +13557,13 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	margin: 0 0 10px;
 }
 .slide-home-02 .slide-wrap .slide-info h5 span {
-	color: #cf9163;
+	color: #b6406b;
 }
 .slide-home-02 .slide-wrap .slide-info h1 {
 	font-size: 90px;
 	font-family: 'Kaushan Script', sans-serif;
 	text-transform: capitalize;
-	color: #cf9163;
+	color: #b6406b;
 	margin: 0 0 20px 0;
 	font-weight: 400;
 }
@@ -13532,7 +13584,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	font-size: 90px;
 	font-weight: 400;
 	font-family: 'Kaushan Script', sans-serif;
-	color: #cf9163;
+	color: #b6406b;
 	margin: 0 0 15px;
 }
 .slide-home-03 .slide-wrap .slide-info h5 {
@@ -13547,7 +13599,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	margin: 0 0 60px 0;
 }
 .slide-home-03 .slide-wrap .slide-info h2 span {
-	color: #cf9163;
+	color: #b6406b;
 }
 /*.slide-home-04*/
 .slide-home-04 .slide-wrap .slide-info {
@@ -13558,7 +13610,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	font-family: 'Kaushan Script', sans-serif;
 	font-weight: 400;
 	margin: 0 0 60px 0;
-	color: #cf9163;
+	color: #b6406b;
 }
 .slide-home-04 .slide-wrap .slide-info h2 {
 	font-size: 24px;
@@ -13572,7 +13624,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	background-color: #000;
 }
 .slide-home-04 .slide-wrap .slide-info a:hover {
-	background-color: #cf9163;
+	background-color: #b6406b;
 }
 /*.slide-home-06*/
 .slide-home-06 .slide-wrap .slide-info h5 {
@@ -13590,7 +13642,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	font-family: 'Kaushan Script', sans-serif;
 	margin: 0 0 20px 0;
 	text-transform: capitalize;
-	color: #cf9163;
+	color: #b6406b;
 }
 .slide-home-06 .slide-wrap .slide-info h2 {
 	font-size: 45px;
@@ -13598,7 +13650,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	margin: 0 0 50px 0;
 }
 .slide-home-06 .slide-wrap .slide-info h2 span {
-	color: #cf9163;
+	color: #b6406b;
 }
 @media (max-width: 1366px) {
 	.slide-home-01 .slide-wrap .slide-info h5 {
@@ -13739,7 +13791,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 }
 @media (max-width: 767px) {
 	.slide-wrap img {
-		min-height: 400px;
+		min-height: 600px;
 	}
 	.slide-home-01 .slide-wrap .slide-info h5 {
 		font-size: 14px;
@@ -14989,7 +15041,7 @@ body .az_toggle_default .az_toggle_content p:last-child {
 .lynessa-mapper .lynessa-pin .lynessa-popup-header .close-modal:hover,
 .lynessa-mapper .lynessa-pin .lynessa-popup-header h2 a:hover,
 .lynessa-mapper.dark .lynessa-pin .lynessa-popup-header h2 a:hover {
-	color: #cf9163;
+	color: #b6406b;
 }
 .lynessa-mapper.dark .lynessa-pin .lynessa-popup-header,
 .lynessa-mapper.dark .lynessa-pin .lynessa-popup-footer,
@@ -15158,8 +15210,8 @@ body .az_toggle_default .az_toggle_content p:last-child {
 	text-transform: none;
 }
 .lynessa-mapper .lynessa-pin .lynessa-popup-footer a:hover {
-	background: #cf9163;
-	border-color: #cf9163;
+	background: #b6406b;
+	border-color: #b6406b;
 	color: #fff;
 }
 .lynessa-mapper .lynessa-pin .lynessa-popup-footer a i {
@@ -15322,7 +15374,7 @@ body .lynessa-mapper .text__area {
 	line-height: 20px;
 	border-radius: 50%;
 	color: #ffffff;
-	background-color: #cf9163;
+	background-color: #b6406b;
 	font-weight: 700;
 	display: inline-block;
 	position: absolute;
